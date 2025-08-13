@@ -12,7 +12,6 @@ This tool reviews corporate legal documents for compliance with ADGM regulations
 
 ## 🧪 How to Use
     Run the app:
-   ```bash
    python main.py
 
 Upload .docx files via the Gradio interface.
@@ -29,7 +28,7 @@ Reference documents in `reference_docs/` are used to simulate retrieval-based va
 
 ## 📌 Requirements
 Install dependencies:
-```bash
+'''bash'''
 pip install -r requirements.txt
 
 
